@@ -1,0 +1,12 @@
+Makefile
+GenerateToken.py
+*.key
+*.tex
+*.sty
+*.cls
+*.aux
+*.log
+*.out
+*.doc
+*.docx
+*.gz
