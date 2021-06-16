@@ -11,9 +11,9 @@ E o processo de data science pode ser sumarizado da seguinte forma:
 Neste exercício temos uma situação onde a análise descritiva é feita de forma separada dos diversos pipelines testados:
 
 * [Análise Descritiva](exploratoryDataAnalysis.ipynb).
-* [Pipeline com KNN]().
-* [Pipeline com Gradient Boosting]().
-* [Pipeline com Random Forest]().
+* [Pipeline com KNN](pipeline_KNN.ipynb).
+* [Pipeline com Gradient Boosting](pipeline_GradientBoostingClassifier.ipynb).
+* [Pipeline com Random Forest](pipeline_RandomForestClassifier.ipynb).
 
 Analise todos os arquivos debatendo em grupo as seguintes questões:
 
