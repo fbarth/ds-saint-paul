@@ -21,7 +21,7 @@ Este curso não tem como objetivo formar engenheiros de machine learning, engenh
 * *08:15 – 09:00*:  [Introdução à Aprendizagem de Máquina](slides/02_aIntroducao.pdf) e [Processos para projetos de Data Science](slides/03_bigDataCiencaDadosKDD.pdf); 
 * *09:00 – 10:00*:  [Desenvolvendo um modelo preditivo do tipo regressão](scripts/RegressaoImoveis.ipynb);
 * *10:00 – 10:20*:  Coffee-Break;
-* *10:20 – 12:00*:  Desenvolvendo um modelo preditivo do tipo classificação;
+* *10:20 – 12:00*:  [Desenvolvendo um modelo preditivo do tipo classificação](scripts/2021_breast_cancer/README.md);
 * *12:00 – 14:00*:  Almoço; 
 * *14:00 – 15:40*:  Desenvolvendo um modelo descritivo do tipo clustering;
 * *15:40 – 16:00*:  Coffee-Break;

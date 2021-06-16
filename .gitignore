@@ -8,5 +8,5 @@ GenerateToken.py
 *.out
 *.gz
 venv
-scripts/.ipynb_checkpoints/
+.ipynb_checkpoints
 
