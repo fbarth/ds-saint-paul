@@ -23,7 +23,7 @@ Este curso não tem como objetivo formar engenheiros de machine learning, engenh
 * *10:00 – 10:20*:  Coffee-Break;
 * *10:20 – 12:00*:  [Desenvolvendo um modelo preditivo do tipo classificação](scripts/2021_breast_cancer/README.md);
 * *12:00 – 14:00*:  Almoço; 
-* *14:00 – 15:40*:  Desenvolvendo um modelo descritivo do tipo clustering;
+* *14:00 – 15:40*:  [Desenvolvendo um modelo descritivo do tipo clustering](scripts/identificando_grupos_usuarios.ipynb);
 * *15:40 – 16:00*:  Coffee-Break;
 * *16:00 – 17:30*:  Projetos de Data Science e impactos nos negócios;
 * *17:30 – 18:00*:  Fechamento.
