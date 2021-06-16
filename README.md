@@ -25,7 +25,7 @@ Este curso não tem como objetivo formar engenheiros de machine learning, engenh
 * *12:00 – 14:00*:  Almoço; 
 * *14:00 – 15:40*:  [Desenvolvendo um modelo descritivo do tipo clustering](scripts/identificando_grupos_usuarios.ipynb);
 * *15:40 – 16:00*:  Coffee-Break;
-* *16:00 – 17:30*:  Projetos de Data Science e impactos nos negócios;
+* *16:00 – 17:30*:  Projetos de Data Science nas empresas: [[1]](slides/04_kdd_na_empresa.pdf), [[2]](slides/05_etapas_projeto.pdf);
 * *17:30 – 18:00*:  Fechamento.
 
 ## Ambiente para a execução dos scripts
