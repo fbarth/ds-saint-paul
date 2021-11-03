@@ -62,7 +62,23 @@ jupyter lab
 
 * Isto irá fazer com que uma instância do jupyter lab seja aberta no seu browser. A partir do browser você poderá abrir todos os scripts e editá-los. 
 
+## Referências
+
+* Fayyad, U., Piatetsky-Shapiro, G., & Smyth, P. (1996). [From Data Mining to Knowledge Discovery in Databases](references/fay1996.pdf). AI Magazine, 17(3), 37. https://doi.org/10.1609/aimag.v17i3.1230
+
+* Mitchell, T. [The Discipline of Machine Learning. 2006](references/MachineLearning.pdf). http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf
+
+* WICKHAM, Hadley. [Tidy Data](references/tidy-data.pdf). Journal of Statistical Software, [S.l.], v. 59, Issue 10, p. 1 - 23, sep. 2014. ISSN 1548-7660. Available at: <https://www.jstatsoft.org/v059/i10>. doi:http://dx.doi.org/10.18637/jss.v059.i10.
+
+* [Foudational Methodology for Data Science. Material que faz parte do curso Data Science Practitioner da plataforma Skills Academy da IBM](references/foundational_ds_ibm.PDF).
+
+* Vasant Dhar. 2013. [Data science and prediction](references/ds_prediction.pdf). Commun. ACM 56, 12 (December 2013), 64–73. DOI:https://doi.org/10.1145/2500499
+
+* Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml](http://archive.ics.uci.edu/ml). Irvine, CA: University of California, School of Information and Computer Science.
+
+* Anaconda, [2020 State of Data Science Report](references/anaconda_report.pdf).
+
 
 ## Informações adicionais
 
-Este curso foi executado em 2020 e será executado em 2021. O material existente neste repositório é referente a versão 2021. 
+Este curso foi executado em 2020 e em 2021. O material existente neste repositório é referente a versão 2021. 
